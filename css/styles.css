@@ -1,0 +1,26 @@
+#show-list {
+  display: none;
+}
+
+.list {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.list:hover {
+  text-decoration: underline;
+}
+
+.task {
+  color: red;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.task:hover {
+  background: yellow;
+}
+
+ul {
+  list-style-type:none; 
+}
